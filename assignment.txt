@@ -1,0 +1,7 @@
+Assignment:
+1.Add a login feature into the website such that only registered users
+can access the index/home page
+2.Add a feature to allow you add a shoe with properties(name, size, price,image)
+3.Extract the data(shoes) from the database and display the shoes in the index page
+4.Add an update page for individual shoe that allows you to delete the
+shoe from the database.
